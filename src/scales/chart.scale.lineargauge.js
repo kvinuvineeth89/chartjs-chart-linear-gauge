@@ -426,5 +426,5 @@ Chart.Scale.LinearGaugeScale = Chart.Scale.extend({
     },
     
 });
-
+Chart.scaleService.registerScaleType('linearGauge', LinearGaugeScale, defaultConfig);
 export default Chart.Scale.LinearGaugeScale;

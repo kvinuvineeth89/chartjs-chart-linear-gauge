@@ -3,14 +3,11 @@
   "description": "Chart.js linear gauge",
   "main": "build/Chart.LinearGauge.cjs.js",
   "version": "1.0.0",
-  "author": {
-    "name": "Vineeth",
-    "email": "kvinuvineeth@gmail.com"
-  },
+  "author": "Vineeth <kvinuvineeth@gmail.com>",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/kvinuvineeth89/chartjs-chart-linear-gauge.git"
+    "type": "git"
+    
   },
   "peerDependencies": {
     "chart.js": "^2.7.3"
@@ -62,6 +59,14 @@
     "chart.js",
     "chart",
     "gauge",
-    "linear" 
-  ]
+    "linear"
+  ],
+  "bugs": {
+    "url": "https://github.com/kvinuvineeth89/chartjs-chart-linear-gauge/issues"
+  },
+  "homepage": "https://github.com/kvinuvineeth89/chartjs-chart-linear-gauge#readme",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {}
 }
